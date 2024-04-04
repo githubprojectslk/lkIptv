@@ -27,5 +27,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30582&ext
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=163999&extension=ts
 #EXTINF:-1 tvg-id="skycinema.com",Sky Cinema Thriller HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=79467&extension=ts
+#EXTINF:-1 tvg-id="skycinema.com",test
+http://gfs206n133.userstorage.mega.co.nz/dl/Ra5mRwRLESyNEwJRhGt_0IgBW8Mnk4-wh5nmyuZm1UAW6gi6IQhGbJDG2B6yBgr_PEeRP6pOG7KQQ47_7j2k9oGa9Vn1KCAy0UjP9llULiW2_xp1mYrjSFCilroW4g
 
 
