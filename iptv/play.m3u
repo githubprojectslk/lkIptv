@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HiruTV.lk",Hiru TV
+#EXTINF:-1 tvg-id="https://www.hirutv.lk/assets/images/logo.png",Hiru TV
 https://tv.lotustechnologieslk.net:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="ITN.lk",ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
@@ -23,9 +23,9 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=83454&ext
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45463&extension=ts
 #EXTINF:-1 tvg-id="animal.com",Animal Planet FHD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30582&extension=ts
-#EXTINF:-1 tvg-id="skycinema.com",Disney+ Sky Cinema Thriller HD
+#EXTINF:-1 tvg-id="skycinema.com",Sky Cinema Thriller HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=163999&extension=ts
-#EXTINF:-1 tvg-id="skycinema.com",Disney+ Sky Cinema Thriller HD
+#EXTINF:-1 tvg-id="skycinema.com",Sky Cinema Thriller HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=79467&extension=ts
 
 
