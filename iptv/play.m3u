@@ -1,13 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HiruTV.lk",Hiru TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="HiruTV.lk",Hiru TV
 https://tv.lotustechnologieslk.net:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-id="ITN.lk",ITN (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ITN.lk",ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Rupavahini.lk",Rupavahini (480p)
+#EXTINF:-1 tvg-id="Rupavahini.lk",Rupavahini
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
-#EXTINF:-1 tvg-id="SiyathaTV.lk",Siyatha TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SiyathaTV.lk",Siyatha TV
 https://stvlk.live/live/eml079n7ui3ytg1c6x4/index.m3u8
-#EXTINF:-1 tvg-id="Swarnavahini.lk",Swarnavahini (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Swarnavahini.lk",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
-
+#EXTINF:-1 tvg-id="sony.com",Sony Sports Ten 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-id="sony.com",Sony Movies
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.com",Cartoon Network HD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45607&extension=ts
+#EXTINF:-1 tvg-id="nickelodeon.com",Nickelodeon
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30524&extension=ts
+#EXTINF:-1 tvg-id="fox.com",Fox Cricket HD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=83454&extension=ts
+#EXTINF:-1 tvg-id="willow.com",Willow Cricket HD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45463&extension=ts
+#EXTINF:-1 tvg-id="animal.com",Animal Planet FHD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30582&extension=ts
+#EXTINF:-1 tvg-id="skycinema.com",Disney+ Sky Cinema Thriller HD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=163999&extension=ts
+#EXTINF:-1 tvg-id="skycinema.com",Disney+ Sky Cinema Thriller HD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=79467&extension=ts
+#EXTINF:-1 tvg-id="skycinema.com",Disney+ Sky Cinema Thriller HD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=79467&extension=ts
 
