@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="https://www.hirutv.lk/assets/images/logo.png",Hiru TV
+#EXTINF:-1 tvg-id="hirutv.lk",Hiru TV
 https://tv.lotustechnologieslk.net:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-id="ITN.lk",ITN
+#EXTINF:-1 tvg-id="itn.lk",ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Rupavahini.lk",Rupavahini
+#EXTINF:-1 tvg-id="rupavahini.lk",Rupavahini
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
 #EXTINF:-1 tvg-id="SiyathaTV.lk",Siyatha TV
 https://stvlk.live/live/eml079n7ui3ytg1c6x4/index.m3u8
-#EXTINF:-1 tvg-id="Swarnavahini.lk",Swarnavahini
+#EXTINF:-1 tvg-id="swarnavahini.lk",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="sony.com",Sony Sports Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
