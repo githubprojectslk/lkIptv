@@ -35,18 +35,19 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924732&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924733&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",24/7 MARVEL 4
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924734&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo-AllTime.svg/1280px-Logo-AllTime.svg.png",24/7 ALL TIME BEST 3
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924700&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo-AllTime.svg/1280px-Logo-AllTime.svg.png",24/7 ALL TIME BEST 2
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924699&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo-AllTime.svg/1280px-Logo-AllTime.svg.png",24/7 ALL TIME BEST 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924698&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo-AllTime.svg/1280px-Logo-AllTime.svg.png",24/7 ALL TIME BEST 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924699&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo-AllTime.svg/1280px-Logo-AllTime.svg.png",24/7 ALL TIME BEST 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924700&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLZz37fN/ytL56ZP_2.jpg",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y9J9fbN/Star-Sports2hd.jpg",Star Sports 2 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1114581
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8wm7KZ5/Star-Sports3-India.jpg",Star Sports 3 HNDI
 http://mag.trexlive.me:80/Michael88/Michael88/155976
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8wm7KZ5/Star-Sports3-India.jpg",Star Sports 3
-http://mag.trexlive.me:80/Michael88/Michael88/155976
+
 
 
 
