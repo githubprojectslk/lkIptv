@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hirutv.lk",Hiru TV
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/92/f2/49/92f2494d-60b5-3122-b346-e13f50944bf9/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg",Hiru TV
 https://tv.lotustechnologieslk.net:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-id="itn.lk",ITN
+#EXTINF:-1 tvg-logo="itn.lk",ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="rupavahini.lk",Rupavahini
+#EXTINF:-1 tvg-logo="rupavahini.lk",Rupavahini
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
-#EXTINF:-1 tvg-id="SiyathaTV.lk",Siyatha TV
+#EXTINF:-1 tvg-logo="SiyathaTV.lk",Siyatha TV
 https://stvlk.live/live/eml079n7ui3ytg1c6x4/index.m3u8
-#EXTINF:-1 tvg-id="swarnavahini.lk",Swarnavahini
+#EXTINF:-1 tvg-logo="swarnavahini.lk",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="sony.com",Sony Sports Ten 1
+#EXTINF:-1 tvg-logo="sony.com",Sony Sports Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-id="sony.com",Sony Movies
+#EXTINF:-1 tvg-logo="sony.com",Sony Movies
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.com",Cartoon Network HD
+#EXTINF:-1 tvg-logo="cartoonnetwork.com",Cartoon Network HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45607&extension=ts
-#EXTINF:-1 tvg-id="nickelodeon.com",Nickelodeon
+#EXTINF:-1 tvg-logo="nickelodeon.com",Nickelodeon
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30524&extension=ts
-#EXTINF:-1 tvg-id="fox.com",Fox Cricket HD
+#EXTINF:-1 tvg-logo="fox.com",Fox Cricket HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=83454&extension=ts
-#EXTINF:-1 tvg-id="willow.com",Willow Cricket HD
+#EXTINF:-1 tvg-logo="willow.com",Willow Cricket HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45463&extension=ts
-#EXTINF:-1 tvg-id="animal.com",Animal Planet FHD
+#EXTINF:-1 tvg-logo="animal.com",Animal Planet FHD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30582&extension=ts
-#EXTINF:-1 tvg-id="skycinema.com",Sky Cinema Thriller HD
+#EXTINF:-1 tvg-logo="skycinema.com",Sky Cinema Thriller HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=163999&extension=ts
-#EXTINF:-1 tvg-id="skycinema.com",Sky Cinema Thriller HD
+#EXTINF:-1 tvg-logo="skycinema.com",Sky Cinema Thriller HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=79467&extension=ts
-#EXTINF:-1 tvg-id="marvel.com",24/7 MARVEL 1
+#EXTINF:-1 tvg-logo="marvel.com",24/7 MARVEL 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924731&extension=ts
-#EXTINF:-1 tvg-id="marvel.com",24/7 MARVEL 2
+#EXTINF:-1 tvg-logo="marvel.com",24/7 MARVEL 2
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924732&extension=ts
-#EXTINF:-1 tvg-id="marvel.com",24/7 MARVEL 3
+#EXTINF:-1 tvg-logo="marvel.com",24/7 MARVEL 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924733&extension=ts
-#EXTINF:-1 tvg-id="marvel.com",24/7 MARVEL 4
+#EXTINF:-1 tvg-logo="marvel.com",24/7 MARVEL 4
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924734&extension=ts
-#EXTINF:-1 tvg-id="all.com",24/7 ALL TIME BEST 3
+#EXTINF:-1 tvg-logo="all.com",24/7 ALL TIME BEST 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924700&extension=ts
-#EXTINF:-1 tvg-id="all.com",24/7 ALL TIME BEST 2
+#EXTINF:-1 tvg-logo="all.com",24/7 ALL TIME BEST 2
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924699&extension=ts
-#EXTINF:-1 tvg-id="all.com",24/7 ALL TIME BEST 1
+#EXTINF:-1 tvg-logo="all.com",24/7 ALL TIME BEST 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924698&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLZz37fN/ytL56ZP_2.jpg",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
