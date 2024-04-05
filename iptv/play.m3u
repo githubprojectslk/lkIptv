@@ -27,32 +27,18 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30582&ext
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=163999&extension=ts
 #EXTINF:-1 tvg-id="skycinema.com",Sky Cinema Thriller HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=79467&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 1" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="marvel.com",24/7 MARVEL 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924731&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 2" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="marvel.com",24/7 MARVEL 2
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924732&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 3" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="marvel.com",24/7 MARVEL 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924733&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 4" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 4
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="marvel.com",24/7 MARVEL 4
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924734&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ALL TIME BEST 3" group-title="24/7 MOVIES & SERIES",US| 24/7 ALL TIME BEST 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="all.com",24/7 ALL TIME BEST 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924700&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ALL TIME BEST 2" group-title="24/7 MOVIES & SERIES",US| 24/7 ALL TIME BEST 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="all.com",24/7 ALL TIME BEST 2
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924699&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 ALL TIME BEST 1" group-title="24/7 MOVIES & SERIES",US| 24/7 ALL TIME BEST 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="all.com",24/7 ALL TIME BEST 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924698&extension=ts
 
