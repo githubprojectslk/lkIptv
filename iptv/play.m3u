@@ -11,7 +11,7 @@ https://stvlk.live/live/eml079n7ui3ytg1c6x4/index.m3u8
 https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMmGEG2cwbRPvzyEYrfsJmtDsvBpOS_rGhqMCWnxBzw&s",Sony Sports Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",Sony Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKs5hM8ZMk_7tsnp3GKDuZquGD3wMv9-ZKzJNOhS5EfA&s",Sony Movies
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45607&extension=ts
@@ -21,7 +21,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30524&ext
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=83454&extension=ts
 #EXTINF:-1 tvg-logo="https://wiffiti.com/wp-content/uploads/2023/11/Willow-Cricket-Live--700x414.jpg",Willow Cricket HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45463&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Planet_logo.svg",Animal Planet FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1B1RKdNqtytla5hQpbbn_Anw9haOe6u4LVJKxn9XU4_2hln5WKMzTGC8Iij0rh0otogw&usqp=CAU",Animal Planet FHD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30582&extension=ts
 #EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12132.png",Sky Cinema Thriller HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=163999&extension=ts
