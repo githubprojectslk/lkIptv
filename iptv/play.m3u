@@ -1,45 +1,45 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/92/f2/49/92f2494d-60b5-3122-b346-e13f50944bf9/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg",Hiru TV
 https://tv.lotustechnologieslk.net:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-logo="itn.lk",ITN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/ITN_Television_Logo_of_Sri_lanka.png",ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="rupavahini.lk",Rupavahini
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQH4-R_SOsMcUDjgLf_rrq7G_UzSz_D-UW3cuU3zXDIA&s",Rupavahini
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
-#EXTINF:-1 tvg-logo="SiyathaTV.lk",Siyatha TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/iAh9x1SgL3biTkjOhzjxxOzRn07wOEIJhol4tbxXeLVgKfNvEI1s_d7BhPW12-VxRU_n",Siyatha TV
 https://stvlk.live/live/eml079n7ui3ytg1c6x4/index.m3u8
-#EXTINF:-1 tvg-logo="swarnavahini.lk",Swarnavahini
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-28LhRbILGProkIvlL7UuA4ou4zS2g0UllygZeLuyLzJpKHHoJZ5ZqgPSzrHC4yVUYXtxX9IDw=s900-c-k-c0x00ffffff-no-rj",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="sony.com",Sony Sports Ten 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMmGEG2cwbRPvzyEYrfsJmtDsvBpOS_rGhqMCWnxBzw&s",Sony Sports Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-logo="sony.com",Sony Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",Sony Movies
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
-#EXTINF:-1 tvg-logo="cartoonnetwork.com",Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45607&extension=ts
-#EXTINF:-1 tvg-logo="nickelodeon.com",Nickelodeon
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-FD94620787-seeklogo.com.png",Nickelodeon
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30524&extension=ts
-#EXTINF:-1 tvg-logo="fox.com",Fox Cricket HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",Fox Cricket HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=83454&extension=ts
-#EXTINF:-1 tvg-logo="willow.com",Willow Cricket HD
+#EXTINF:-1 tvg-logo="https://wiffiti.com/wp-content/uploads/2023/11/Willow-Cricket-Live--700x414.jpg",Willow Cricket HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45463&extension=ts
-#EXTINF:-1 tvg-logo="animal.com",Animal Planet FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Planet_logo.svg",Animal Planet FHD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30582&extension=ts
-#EXTINF:-1 tvg-logo="skycinema.com",Sky Cinema Thriller HD
+#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12132.png",Sky Cinema Thriller HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=163999&extension=ts
-#EXTINF:-1 tvg-logo="skycinema.com",Sky Cinema Thriller HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sky_Cinema_Family_DE_Logo_2016.png/1200px-Sky_Cinema_Family_DE_Logo_2016.png",Sky Cinema Family HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=79467&extension=ts
-#EXTINF:-1 tvg-logo="marvel.com",24/7 MARVEL 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",24/7 MARVEL 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924731&extension=ts
-#EXTINF:-1 tvg-logo="marvel.com",24/7 MARVEL 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",24/7 MARVEL 2
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924732&extension=ts
-#EXTINF:-1 tvg-logo="marvel.com",24/7 MARVEL 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",24/7 MARVEL 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924733&extension=ts
-#EXTINF:-1 tvg-logo="marvel.com",24/7 MARVEL 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",24/7 MARVEL 4
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924734&extension=ts
-#EXTINF:-1 tvg-logo="all.com",24/7 ALL TIME BEST 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo-AllTime.svg/1280px-Logo-AllTime.svg.png",24/7 ALL TIME BEST 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924700&extension=ts
-#EXTINF:-1 tvg-logo="all.com",24/7 ALL TIME BEST 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo-AllTime.svg/1280px-Logo-AllTime.svg.png",24/7 ALL TIME BEST 2
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924699&extension=ts
-#EXTINF:-1 tvg-logo="all.com",24/7 ALL TIME BEST 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo-AllTime.svg/1280px-Logo-AllTime.svg.png",24/7 ALL TIME BEST 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924698&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLZz37fN/ytL56ZP_2.jpg",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
