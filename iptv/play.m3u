@@ -45,8 +45,8 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=924700&ex
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y9J9fbN/Star-Sports2hd.jpg",Star Sports 2 HD
 http://mag.trexlive.me:80/Michael88/Michael88/1114581
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8wm7KZ5/Star-Sports3-India.jpg",Star Sports 3 HNDI
-http://mag.trexlive.me:80/Michael88/Michael88/155976
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1200px-LA7_-_Logo_2011.svg.png",LA 7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
 
 
 
