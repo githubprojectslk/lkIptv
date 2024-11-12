@@ -51,7 +51,7 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png",24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Play Marvel 1" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel1.png" group-title="VIP PORTUGAL",Play Marvel 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel1.png" group-title="VIP PORTUGAL",Play Marvel 1
 http://rafadnsvip.live:8080/filiplar/lar13720/32076
 #EXTINF:-1 tvg-id="" tvg-name="Play Marvel 2" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel2.png" group-title="VIP PORTUGAL",Play Marvel 2
 http://rafadnsvip.live:8080/filiplar/lar13720/43300
