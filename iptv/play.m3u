@@ -25,8 +25,9 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45463&ext
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30582&extension=ts
 #EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12132.png",Sky Cinema Thriller HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=163999&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sky_Cinema_Family_DE_Logo_2016.png/1200px-Sky_Cinema_Family_DE_Logo_2016.png",Sky Cinema Family HD
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=79467&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s",HBO Family HD
+stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CF:07:E9&stream=45550&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",DISNEY+ MARVEL
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:c6:03:82&stream=494513&extension=ts
 
