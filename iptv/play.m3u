@@ -34,6 +34,9 @@ http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CF:07:E9&stream=45550&e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO FHD
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C6:03:82&stream=61451&extension=ts
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Astro_Jackie_Chan.png/revision/latest?cb=20211120151553",JAKIE TV
+http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1295630&extension=ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",DISNEY+ MARVEL
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:c6:03:82&stream=494513&extension=ts
 
