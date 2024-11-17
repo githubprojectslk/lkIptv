@@ -19,7 +19,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45607&ext
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30524&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",Fox Cricket HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=83454&extension=ts
-#EXTINF:-1 tvg-logo="https://wiffiti.com/wp-content/uploads/2023/11/Willow-Cricket-Live--700x414.jpg",Willow Cricket HD
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLLOW.png",Willow Cricket HD
 http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1104677&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1B1RKdNqtytla5hQpbbn_Anw9haOe6u4LVJKxn9XU4_2hln5WKMzTGC8Iij0rh0otogw&usqp=CAU",Animal Planet FHD
@@ -33,6 +33,9 @@ http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CF:07:E9&stream=45550&e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO FHD
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C6:03:82&stream=61451&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTXsuGsGAltpatzHcwokWzY1y28EMOzbiEOz87jGt0qYShe9i7eXOn0lQs&s=10",STAR GOLD THRILLS 
+http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1118072&extension=ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Astro_Jackie_Chan.png/revision/latest?cb=20211120151553",JAKIE TV
 http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1295630&extension=ts
