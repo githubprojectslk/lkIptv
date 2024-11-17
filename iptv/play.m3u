@@ -50,7 +50,7 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:c6:03:82&stream=494513&exte
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C6:03:82&stream=522005&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY CHANNEL HD
-http://rafadnsvip.live:8080/filiplar/lar13720/114562
+http://rafadnsvip.live:8080/filiplar/lar13720/124
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY+ MOVIES 
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CF:07:E9&stream=177333&extension=ts
