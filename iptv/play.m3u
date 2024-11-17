@@ -13,17 +13,20 @@ https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6
 http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1104671&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKs5hM8ZMk_7tsnp3GKDuZquGD3wMv9-ZKzJNOhS5EfA&s",Sony Movies
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network HD
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45607&extension=ts
+http://rafadnsvip.live:8080/filiplar/lar13720/114537
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-FD94620787-seeklogo.com.png",Nickelodeon
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30524&extension=ts
+http://rafadnsvip.live:8080/filiplar/lar13720/125
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",Fox Cricket HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=83454&extension=ts
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLLOW.png",Willow Cricket HD
 http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1104677&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1B1RKdNqtytla5hQpbbn_Anw9haOe6u4LVJKxn9XU4_2hln5WKMzTGC8Iij0rh0otogw&usqp=CAU",Animal Planet FHD
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30582&extension=ts
+http://rafadnsvip.live:8080/filiplar/lar13720/114524
 
 #EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12132.png",Sky Cinema Thriller HD
 
@@ -47,7 +50,7 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:c6:03:82&stream=494513&exte
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C6:03:82&stream=522005&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY CHANNEL HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CF:07:E9&stream=177334&extension=ts
+http://rafadnsvip.live:8080/filiplar/lar13720/114562
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY+ MOVIES 
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CF:07:E9&stream=177333&extension=ts
