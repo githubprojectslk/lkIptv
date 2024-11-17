@@ -10,7 +10,7 @@ https://stvlk.live/live/eml079n7ui3ytg1c6x4/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-28LhRbILGProkIvlL7UuA4ou4zS2g0UllygZeLuyLzJpKHHoJZ5ZqgPSzrHC4yVUYXtxX9IDw=s900-c-k-c0x00ffffff-no-rj",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMmGEG2cwbRPvzyEYrfsJmtDsvBpOS_rGhqMCWnxBzw&s",Sony Sports Ten 1
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1104671&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKs5hM8ZMk_7tsnp3GKDuZquGD3wMv9-ZKzJNOhS5EfA&s",Sony Movies
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network HD
@@ -20,11 +20,13 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30524&ext
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",Fox Cricket HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=83454&extension=ts
 #EXTINF:-1 tvg-logo="https://wiffiti.com/wp-content/uploads/2023/11/Willow-Cricket-Live--700x414.jpg",Willow Cricket HD
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=45463&extension=ts
+http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1104677&extension=ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1B1RKdNqtytla5hQpbbn_Anw9haOe6u4LVJKxn9XU4_2hln5WKMzTGC8Iij0rh0otogw&usqp=CAU",Animal Planet FHD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=30582&extension=ts
+
 #EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12132.png",Sky Cinema Thriller HD
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:8e:7f:8b&stream=163999&extension=ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s",HBO Family HD
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CF:07:E9&stream=45550&extension=ts
@@ -45,7 +47,7 @@ http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CF:07:E9&stream=177334&
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CF:07:E9&stream=177333&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLZz37fN/ytL56ZP_2.jpg",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
+http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1104673&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y9J9fbN/Star-Sports2hd.jpg",Star Sports 2 HD
 http://mag.trexlive.me:80/Michael88/Michael88/1114581
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1200px-LA7_-_Logo_2011.svg.png",LA 7
