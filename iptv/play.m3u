@@ -30,6 +30,8 @@ http://rafadnsvip.live:8080/filiplar/lar13720/114524
 
 #EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12132.png",Sky Cinema Thriller HD
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUSY-8bmTELco6hriUw5PzHdaSz6lqIglPA&usqp=CAU",SIMPSONS
+http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=534104&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s",HBO Family HD
 http://rafadnsvip.live:8080/filiplar/lar13720/114589
@@ -43,8 +45,23 @@ http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1118072&extens
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Astro_Jackie_Chan.png/revision/latest?cb=20211120151553",JAKIE TV
 http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=1295630&extension=ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",MARVEL 1
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqblPYppDKi4NYv-HkBy0Sr1pi7cqENgHjtdfGQ5ey8ygwNG9SbisIO4U&s=10",BOX-OFFICE
 http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=924695&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",MARVEL 1
+http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=924731&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",MARVEL 2
+http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=924732&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",MARVEL 3
+http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=924733&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",MARVEL 4
+http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=924734&extension=ts
+
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgR-tzDPCmJdqQ_YrvebW6PEt3Xp4A2VUcaiO9Ebd2Gi4t1nQx9tOKqyg&s=10",FAMILY MOVIES 
+http://stb.vooiptv.com/play/live.php?mac=00:1A:79:DD:F0:2C&stream=558796&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",DISNEY+ MOVIES 
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C6:03:82&stream=522005&extension=ts
