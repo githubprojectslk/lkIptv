@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Sinhala",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=YES,URI="https://raw.githubusercontent.com/githubprojectslk/Subs/refs/heads/main/Minority%20Report%5B2002%5DDvDrip%5BEng%5D-FXG.srt"
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKE437l6_--3AK9-F8CSyAhBM45CbPZTVqA&usqp=CAU",The Impossible (2012)
 https://drive.usercontent.google.com/download?id=12adhJ_LIpSHIipyPwrYpDrPKQaxWzUMF&export=download&confirm=t&uuid=c616b36f-a974-4410-8abf-b4fea447d94c&at=AN_67v176I8917_7VXiyFGGVgew_%3A1729705802331352eb&at=AN_67v30LgQAraGu8D12xsveqXow%3A1728163902088
 
@@ -86,8 +90,7 @@ https://fast07.janathaholdings.xyz/cscloud?file=JxSoqxf8jFlxpkt4YBB5XwBQMyXaVF6r
 #EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/71CB59DE9324B8DDA47C03113F6AE15DE50EA2BE450B4509E918AE42366F838D/scale?width=1200&aspectRatio=1.78&format=webp",Around the World in 80 Days (2004)
 https://zorvixwave32.xyz/file1/TGk6aCq0G2Trmngy6Hyzwsq7JS8g+LiUfsa~XhZyRkz7wBlLNeTq11aQCLZzHVJPKOpbrW85jQ7ethKT~1Mp8PMniGsrs28StSNhGuCO9C4XnKW+OG+FEjtcCsbuz0ulX9rQv44hTpg5K7pv81l8o9gHMyrn98fWrIuUtTD6B5Q=/NzIw/aW5kZXgubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvBcN6eL-qjevWAISxMno0dVLIgmWxTcUwA&usqp=CAU",Minority Report (2002)
-#EXTVLCOPT:sub-file="https://files.tg-amc.workers.dev/52458/Minority+Report%5B2002%5DDvDrip%5BEng%5D-FXG.srt?hash=AgADjR"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvBcN6eL-qjevWAISxMno0dVLIgmWxTcUwA&usqp=CAU",SUBTITLES="subs",Minority Report (2002)
 https://zorvixwave32.xyz/file1/TWySVwjXMjMtQcTS6+lU3PvrEiwGE+kPBlSCIgPyfYl8204WYxqKXqBluXOrel2GxQAtwpx4TdPiupSgWCuTBLX0btgkGbNTZOJ6NzDOvjqzwqUidnDpnfU3uPOPCjRRxbBpGlL9ZPVBFyeBtUKSERZAuXIx4p1hEWhsHT3xibc=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj34oX18AI5lHOKU6rztZmRS501xzXRyUSqA&usqp=CAU",Home The Last Samurai (2003)
