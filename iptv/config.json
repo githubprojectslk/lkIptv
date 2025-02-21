@@ -1,0 +1,128 @@
+{
+  "log": {
+    "level": "warn"
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "default",
+        "address": "tcp://1.1.1.1",
+        "detour": "default"
+      },
+      {
+        "tag": "cdn-direct",
+        "detour": "config cdn",
+        "address": "udp://meetzoom-dns.connectedbot.site",
+        "address_resolver": "local"
+      },
+      {
+        "tag": "block",
+        "address": "rcode://success"
+      },
+      {
+        "tag": "local",
+        "address": "local",
+        "detour": "direct"
+      }
+    ],
+    "rules": [
+      {
+        "domain_keyword": ["connectedbot"],
+        "server": "local",
+        "action": "route"
+      }
+    ],
+    "final": "cdn-direct"
+  },
+  "inbounds": [
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "address": "172.19.0.1/30",
+      "auto_route": true,
+      "strict_route": true
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "vless",
+      "tag": "config cdn",
+      "server": "wapforum.org",
+      "server_port": 443,
+      "uuid": "9fcefdc3-9666-4b67-8d6a-75aef6073828",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.connectedbot.site",
+        "insecure": true,
+        "max_version": "1.3"
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "host": "cdn.connectedbot.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "config direct",
+      "server": "origin.connectedbot.site",
+      "server_port": 80,
+      "uuid": "9fcefdc3-9666-4b67-8d6a-75aef6073828",
+      "tls": {
+        "enabled": false,
+        "server_name": "cdn.connectedbot.site",
+        "insecure": true,
+        "max_version": "1.3"
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "host": "m.zoom.us"
+        }
+      }
+    },
+    {
+      "type": "selector",
+      "tag": "default",
+      "outbounds": ["config cdn", "config direct"]
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "inbound": "tun-in",
+        "action": "sniff",
+        "timeout": "100ms"
+      },
+      {
+        "domain_keyword": ["ooklaserver"],
+        "outbound": "direct"
+      },
+      {
+        "ip_cidr": ["104.21.11.246/32", "104.21.16.1/32", "104.21.48.1/32"],
+        "action": "route",
+        "outbound": "direct"
+      },
+      {
+        "protocol": "dns",
+        "action": "hijack-dns"
+      }
+    ],
+    "final": "default",
+    "auto_detect_interface": true
+  },
+  "experimental": {
+    "clash_api": {
+      "external_controller": "127.0.0.1:9090",
+      "external_ui": "yacd",
+      "default_mode": "clash"
+    }
+  }
+}
