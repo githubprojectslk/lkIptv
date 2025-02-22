@@ -47,7 +47,7 @@
     {
       "type": "vless",
       "tag": "config cdn",
-      "server": "wapforum.org",
+      "server": "104.26.7.235",
       "server_port": 443,
       "uuid": "9fcefdc3-9666-4b67-8d6a-75aef6073828",
       "tls": {
